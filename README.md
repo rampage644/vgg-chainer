@@ -1,2 +1,3 @@
-# vgg-chainer
-`chainer` VGG16 model implementation intended to get familiar with chainer.
+# Description
+
+Very simple VGG16 implementation with `chainer`. Goal is to get familiar with this framework.
